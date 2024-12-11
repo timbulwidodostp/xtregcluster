@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'xtregcluster': Partially heterogeneous linear panel data with fixed effects Use xtregcluster With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f xtregcluster.ado
+f xtregcluster.sthlp
